@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Motoc Calibrator
+Comment=Calibrate different VR tracking systems
+Exec=motoc
+Icon=motoc
+Terminal=false
+Type=Application
+Categories=Game;Utility;
+StartupNotify=true
