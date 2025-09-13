@@ -25,11 +25,11 @@ BuildRequires:  mesa-libGL-devel
 BuildRequires:  vulkan-headers
 
 # VR dependencies (likely from Terra or another third-party repo)
-BuildRequires:  openxr-loader-devel
-BuildRequires:  libmonado-devel
+BuildRequires:  openxr-devel
+BuildRequires:  monado-devel
 
 # Runtime dependencies
-Requires:       openxr-loader
+Requires:       openxr
 Requires:       monado
 
 %description
